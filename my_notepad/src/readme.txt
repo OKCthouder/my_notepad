@@ -1,0 +1,2 @@
+导入eclipse,右击NotepadMainFrame
+我用的是jdk1.7,如果出现不能运行，可以右击项目Build Path更改jdk
