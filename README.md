@@ -755,8 +755,8 @@ JtextArea textArea.getDocument().addUndoableEditListener(undoMgr);
 | **设计状态******                             | 初稿                                | **用例类型******                             | 手工操作       |      |      |
 | **用例描述******  **        **在windows环境下，测试记事本的更换字体样式以及更换背景颜色的功能 |                                   |                                          |            |      |      |
 | **目的******                               | 验证能实现记事本的更换字体样式以及更换背景颜色的功能        |                                          |            |      |      |
-| **前提条件******                             | 记事本系统可用                           |                                          |            |      |      |
-| **测试步骤及输入：******                         | **结果：******                       |                                          |            |      |      |
+| 前提条件                                     | 记事本系统可用                           |                                          |            |      |      |
+| 测试步骤及输入：                                 | 结果：                               |                                          |            |      |      |
 | 步骤1                                      | 双击打开记事本，点击格式-字体                   | 选择相应的字体，有相应的改变                           |            |      |      |
 | 步骤2                                      | 在编辑区域输入1310906，字体改为Wingdings，点击确定 | 显示：字体改为Wingdings样式                       |            |      |      |
 | 步骤3                                      | 在编辑区输入杨宇杰，字体改为Giddyup Std，点击确定    | 显示  ![img](file:///C:/Users/Simple_Y/AppData/Local/Temp/msohtmlclip1/01/clip_image067.jpg) |            |      |      |
@@ -789,7 +789,7 @@ JtextArea textArea.getDocument().addUndoableEditListener(undoMgr);
 
  
 
-## [八、总结]()
+## 八、总结
 
 ### 8.1.    组长总结   
 
